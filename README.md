@@ -4,16 +4,16 @@
 I'm a software developer with a passion for **TypeScript**, **Angular**, **Vue.js**, and modern web development. I focus on building robust and scalable applications, contributing to open-source projects, and sharing my knowledge through demos and workshops.
 
 ## 💻 Open Source Projects
-- **[workshop-angular](https://github.com/franz-bendezu/workshop-angular)**: Angular workshop materials, including exercises and best practices.
-- **[personal-website](https://github.com/franz-bendezu/personal-website)**: My portfolio and blog, built with Angular and Bootstrap.
-- **[workshop-angular-slides](https://github.com/franz-bendezu/workshop-angular-slides)**: Presentation slides for an Angular workshop, covering core concepts.
+- **[personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)**: My portfolio and blog, built with Angular and Bootstrap.
 - **[ng-crud-mat](https://github.com/franz-bendezu/ng-crud-mat)**: Angular CRUD application using Material Design components.
 
-## 🌐 Demos & Workshops
+## 🌐 Workshops
+- **[workshop-angular](https://github.com/franz-bendezu/workshop-angular)**: Angular workshop materials, including exercises and best practices.
 - **[webpack-demo](https://github.com/franz-bendezu/webpack-demo)**: A hands-on demo showing how to set up and use Webpack in modern web projects.
 - **[workshop-angular](https://github.com/franz-bendezu/workshop-angular)**: Workshop on Angular, focusing on building dynamic web applications.
+- **[workshop-angular-slides](https://github.com/franz-bendezu/workshop-angular-slides)**: Presentation slides for an Angular workshop, covering core concepts.
 
-## 📚 Blog & Tutorials
+## 📚 Demo
 - **[typescript-decorators](https://github.com/franz-bendezu/typescript-decorators)**: Tutorial on leveraging TypeScript decorators for more organized and maintainable code.
 - **[async-await-patterns](https://github.com/franz-bendezu/async-await-patterns)**: A guide on using async-await for efficient asynchronous programming in JavaScript.
 
