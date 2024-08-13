@@ -1,7 +1,7 @@
 # Hi, I'm Franz Bendezu 👋
 
 ## 🚀 About Me
-I'm a software developer with a passion for **TypeScript**, **Angular**, **Vue.js**, and modern web development. I focus on building robust and scalable applications, contributing to open-source projects, and sharing my knowledge through demos and workshops.
+I'm a software developer with a passion for frontend with **TypeScript**, **Angular**, **Vue.js**, and backend with **Java**, **Spring  Framework**, **Node**, **Nestjs**, **Express** with a focus on  modern web development. I focus on building robust and scalable applications, contributing to open-source projects, and sharing my knowledge through demos and workshops.
 
 ## 💻 Open Source Projects
 - **[personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)**: My portfolio and blog, built with Next.js, Tailwind and Headlessui.
