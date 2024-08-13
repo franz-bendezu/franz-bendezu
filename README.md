@@ -8,10 +8,9 @@ I'm a software developer with a passion for frontend with **TypeScript**, **Angu
 - **[ng-crud-mat](https://github.com/franz-bendezu/ng-crud-mat)**: Angular CRUD application using Material Design components.
 
 ## 🌐 Workshops
-- **[workshop-angular](https://github.com/franz-bendezu/workshop-angular)**: Angular workshop materials, including exercises and best practices.
-- **[webpack-demo](https://github.com/franz-bendezu/webpack-demo)**: A hands-on demo showing how to set up and use Webpack in modern web projects.
-- **[workshop-angular](https://github.com/franz-bendezu/workshop-angular)**: Workshop on Angular, focusing on building dynamic web applications.
-- **[workshop-angular-slides](https://github.com/franz-bendezu/workshop-angular-slides)**: Presentation slides for an Angular workshop, covering core concepts.
+- **[workshop-typescript](https://github.com/franz-bendezu/typescript-workshop-slides)**: Typescript workshop materials, including exercises and best practices.
+- **[workshop-angular-slides](https://github.com/franz-bendezu/typescript-workshop-slides)**: Workshop on Angular, focusing on building dynamic web applications.
+- **[workshop-vue3-slides](https://github.com/franz-bendezu/intro-vue-3-workshop-slides-2022-2)**: Presentation slides for an Vue workshop, covering core concepts.
 
 ## 📚 Demo
 - **[typescript-decorators](https://github.com/franz-bendezu/typescript-decorators)**: Tutorial on leveraging TypeScript decorators for more organized and maintainable code.
