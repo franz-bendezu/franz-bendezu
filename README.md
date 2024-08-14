@@ -14,6 +14,7 @@ I'm a software developer with a passion for frontend with **TypeScript**, **Angu
 - **[workshop-vue3-slides](https://github.com/franz-bendezu/intro-vue-3-workshop-slides-2022-2)**: Presentation slides for an Vue workshop, covering core concepts.
 
 ## 📚 Demos
+- **[aiverse](https://github.com/franz-bendezu/aiverse)**: A demo showcasing the integration of OpenAI for generating content with DALL-E and minting images as NFTs.
 - **[typescript-decorators](https://github.com/franz-bendezu/typescript-decorators)**: Tutorial on leveraging TypeScript decorators for more organized and maintainable code.
 - **[async-await-patterns](https://github.com/franz-bendezu/async-await-patterns)**: A guide on using async-await for efficient asynchronous programming in JavaScript.
 
