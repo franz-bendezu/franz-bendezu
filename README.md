@@ -4,7 +4,7 @@
 I'm a software developer with a passion for frontend with **TypeScript**, **Angular**, **Vue.js**, and backend with **Java**, **Spring  Framework**, **Node**, **Nestjs**, **Express** with a focus on  modern web development. I focus on building robust and scalable applications, contributing to open-source projects, and sharing my knowledge through demos and workshops.
 
 ## 💻 Open Source Projects
-- **[personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)**: My portfolio and blog, built with Next.js, Tailwind and HeadlessUI.
+- **[personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)**: My portfolio built with Next.js, Tailwind and HeadlessUI.
 - **[horext](https://github.com/horext)**: Schedule Generator, build with Nuxt + Typescript and Spring + Java.
 - **[ng-crud-mat](https://github.com/franz-bendezu/ng-crud-mat)**: Angular CRUD application using Material Design components.
 
