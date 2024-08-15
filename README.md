@@ -23,7 +23,7 @@ I'm a software developer with a passion for frontend with **TypeScript**, **Angu
 - [Personal Website](https://franzbendezu.me)
 
 ## 📊 GitHub Stats
-![Franz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franz-bendezu&show_icons=true&theme=radical)
+![Franz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franz-bendezu&show_icons=true)
 
 
 <!--
