@@ -10,7 +10,7 @@ I'm a software developer with a passion for frontend with **TypeScript**, **Angu
 
 ## 🌐 Workshops
 - **[workshop-typescript](https://github.com/franz-bendezu/typescript-workshop-slides)**: Typescript workshop materials, including exercises and best practices.
-- **[workshop-angular-slides](https://github.com/franz-bendezu/typescript-workshop-slides)**: Workshop on Angular, focusing on building dynamic web applications.
+- **[workshop-angular-slides](https://github.com/franz-bendezu/intro-angular-workshop-slides)**: Workshop on Angular, focusing on building dynamic web applications.
 - **[workshop-vue3-slides](https://github.com/franz-bendezu/intro-vue-3-workshop-slides-2022-2)**: Presentation slides for an Vue workshop, covering core concepts.
 
 ## 📚 Demos
