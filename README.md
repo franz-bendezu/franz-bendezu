@@ -1,42 +1,58 @@
 # Hi, I'm Franz Bendezu 👋
 
-## 🚀 About Me
-I'm a software developer with a passion for frontend with **TypeScript**, **Angular**, **Vue.js**, **React** and backend with **Java**, **Spring  Framework**, **Node**, **Nestjs**, **Express** with a focus on  modern web development. I focus on building robust and scalable applications, contributing to open-source projects, and sharing my knowledge through demos and workshops.
+I'm a full-stack software engineer focused on TypeScript, frontend architecture,
+developer tooling, and scalable web applications. I enjoy turning complex
+technical ideas into practical software and sharing what I learn through
+open-source projects and workshops.
+
+## 🚀 Current Focus
+
+- Building compile-time tooling for the TypeScript ecosystem.
+- Designing modern frontend architectures with strong developer experience.
+- Creating and maintaining practical open-source software.
 
 ## 💻 Open Source Projects
-- **[personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)**: My portfolio built with Next.js, Tailwind and HeadlessUI.
-- **[horext](https://github.com/horext)**: Schedule Generator, build with Nuxt + Typescript and Spring + Java.
-- **[ng-crud-mat](https://github.com/franz-bendezu/ng-crud-mat)**: Angular CRUD application using Material Design components.
 
-## 🌐 Workshops
-- **[workshop-typescript](https://github.com/franz-bendezu/typescript-workshop-slides)**: Typescript workshop materials, including exercises and best practices.
-- **[workshop-angular-slides](https://github.com/franz-bendezu/intro-angular-workshop-slides)**: Workshop on Angular, focusing on building dynamic web applications.
-- **[workshop-vue3-slides](https://github.com/franz-bendezu/intro-vue-3-workshop-slides-2022-2)**: Presentation slides for an Vue workshop, covering core concepts.
+### [compdi](https://github.com/franz-bendezu/compdi)
 
-## 📚 Demos
-- **[aiverse](https://github.com/franz-bendezu/aiverse)**: A demo showcasing the integration of OpenAI for generating content with DALL-E and minting images as NFTs.
-- **[typescript-decorators](https://github.com/franz-bendezu/typescript-decorators)**: Tutorial on leveraging TypeScript decorators for more organized and maintainable code.
-- **[async-await-patterns](https://github.com/franz-bendezu/async-await-patterns)**: A guide on using async-await for efficient asynchronous programming in JavaScript.
+Zero-overhead, compile-time dependency injection for TypeScript without a runtime
+container or `reflect-metadata`. It supports Vite, Rollup, Rolldown, Rspack, and
+esbuild.
 
-## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/franz-bendezu/)
-- [Personal Website](https://franzbendezu.me)
+### [horext](https://github.com/horext)
 
-## 📊 GitHub Stats
-![Franz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franz-bendezu&show_icons=true)
+A schedule-generation platform with a Nuxt 4, Vue 3, TypeScript, and Vuetify
+frontend backed by Kotlin services.
 
+### [personal-website](https://github.com/franz-bendezu/franz-bendezu.github.io)
 
-<!--
-**franz-bendezu/franz-bendezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal website, built with Next.js 15, React 19, TypeScript, Tailwind CSS 4,
+and Headless UI.
 
-Here are some ideas to get you started:
+### [ng-crud-mat](https://github.com/franz-bendezu/ng-crud-mat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An Angular 19 CRUD application using Angular Material components.
+
+## 🧰 Toolbox
+
+**Languages:** TypeScript, JavaScript, Kotlin, Java, Python, SQL
+
+**Frontend:** React, Vue, Angular, Next.js, Nuxt, Tailwind CSS
+
+**Backend:** Spring Boot, Node.js, NestJS, Express, FastAPI
+
+**Platform:** Docker, PostgreSQL, Redis, Kafka, GitHub Actions
+
+## 🌐 Workshops & Learning Resources
+
+- **[TypeScript Workshop](https://github.com/franz-bendezu/typescript-workshop-slides):**
+  exercises, language fundamentals, and practical patterns.
+- **[Angular Workshop](https://github.com/franz-bendezu/intro-angular-workshop-slides):**
+  an introduction to building dynamic Angular applications.
+- **[Vue 3 Workshop](https://github.com/franz-bendezu/intro-vue-3-workshop-slides-2022-2):**
+  Vue 3 fundamentals and hands-on examples.
+
+## 🔗 Connect
+
+[![Website](https://img.shields.io/badge/Website-franzbendezu.me-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://franzbendezu.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franz_Bendezu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franz-bendezu/)
